@@ -1,36 +1,41 @@
-<h1 align='center'>Hi 
-<img src='https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966' width='40px'>, I'm Denys</h1>
-<h3 align='center'>A curious 🤔 fullstack developer from Brazil 🇧🇷</h3>
+<section>
+    <h1 align='center'>Hi 
+    <img src='https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966' width='40px'>, I'm Denys</h1>
+    <h3 align='center'>A curious 🤔 full stack developer from Brazil 🇧🇷</h3>
+</section>
 
-
-I'm a fullstack developer, inpired by code and assiduous problem solver.
+<section>
+I'm a full stack developer, inspired by code and assiduous problem solver.
 
 My main focus is performance and automation. May that be code, processes, learning or people.
 
 - 👀 I’m interested in performance, automating the boring stuff and web development
 - 🌱 I’m currently learning React.js and Node.js (MERN stack)
-- 💞️ I’m looking to collaborate on projects that helps easier people's lives and make faster processes through tech
+- 💞️ I’m looking to collaborate on projects that helps ease people's lives and make faster processes through tech
+</section>
 
 
 ## 📫 Contacts
 
-<div style='display:flex;align-items:center'>
+<section>
     <a target='_blank' rel='noreferrer' href='mailto:denysdohn@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
     <a target='_blank' rel='noreferrer' href='https://www.linkedin.com/in/denyspacheco'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
-	<a target='_blank' rel='noreferrer' href='https://www.linkedin.com/in/denyspacheco'></a>
-</div>
+    <a target='_blank' rel='noreferrer' href='https://www.linkedin.com/in/denyspacheco'></a>
+</section>
 
 
 ## 🚀️ Main languages
 
-<div style='display:flex;justify-content:space-around'>
-	<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg' width='50px' title='JavaScript'/></a>
-	<a href='https://www.python.org' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg' width='50px' title='Python'/></a>
-	<a href='https://www.gnu.org/software/bash/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg' width='50px' title='Bash'/></a>
-</div>
+<section>
+    <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg' width='50px' title='JavaScript'/></a>
+    <a href='https://www.python.org' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg' width='50px' title='Python'/></a>
+    <a href='https://www.gnu.org/software/bash/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg' width='50px' title='Bash'/></a>
+</section>
+
 
 ## 💻️ Developed with technologies
-<p align='center'>
+
+<section>
     <a href='https://www.gnu.org/software/bash/' target='_blank' rel='noreferrer'><img src='https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg' title='Bash' width='40' height='40'/></a>
     <a href='https://getbootstrap.com' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg' title='Bootstrap' width='40' height='40'/></a>
     <a href='https://www.chartjs.org' target='_blank' rel='noreferrer'><img src='https://www.chartjs.org/media/logo-title.svg' title='Chart.js' width='40' height='40'/></a>
@@ -69,32 +74,27 @@ My main focus is performance and automation. May that be code, processes, learni
     <a href='https://jquery.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg' title='JQuery' width='40' height='40'/></a>
     <a href='https://babeljs.io/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg' title='Babel' width='40' height='40'/></a>
     <a href='https://www.centos.org/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg' title='CentOS' width='40' height='40'/></a>
-</p>
+</section>
+
 
 ## 🤩 Looking foward to work with
 
-<p align='center'>
-<a href='https://www.docker.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' title='Docker' width='40' height='40'/></a> 
-<a href='https://jestjs.io' target='_blank' rel='noreferrer'><img src='https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg' title='Jest' width='40' height='40'/></a>
-<a href='https://tailwindcss.com/' target='_blank' rel='noreferrer'><img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' title='Tailwind' width='40' height='40'/></a>
-<a href='https://materializecss.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg' title='Materialize' width='40' height='40'/></a>
-<a href='https://www.mongodb.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' title='MongoDB' width='40' height='40'/></a>
-<a href='https://mui.com/pt/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg' title='MaterialUI' width='40' height='40'/></a>
-<a href='https://fastapi.tiangolo.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg' title='FastAPI' width='40' height='40'/></a>
-<a href='https://www.djangoproject.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg' title='Django' width='40' height='40'/></a>
-</p>
+<section>
+    <a href='https://www.docker.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' title='Docker' width='40' height='40'/></a> 
+    <a href='https://jestjs.io' target='_blank' rel='noreferrer'><img src='https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg' title='Jest' width='40' height='40'/></a>
+    <a href='https://tailwindcss.com/' target='_blank' rel='noreferrer'><img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' title='Tailwind' width='40' height='40'/></a>
+    <a href='https://materializecss.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg' title='Materialize' width='40' height='40'/></a>
+    <a href='https://www.mongodb.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' title='MongoDB' width='40' height='40'/></a>
+    <a href='https://mui.com/pt/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg' title='MaterialUI' width='40' height='40'/></a>
+    <a href='https://fastapi.tiangolo.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg' title='FastAPI' width='40' height='40'/></a>
+    <a href='https://www.djangoproject.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg' title='Django' width='40' height='40'/></a>
+</section>
+
 
 ## ⚡️ GitHub Stats
 
-<div>
-
-<img src='https://github-readme-stats.vercel.app/api?username=denyspacheco&hide=prs,issues&theme=github_dark'/>
-
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=denyspacheco&langs_count=10&layout=compact&theme=github_dark'/>
-
-</div>
-
-<img align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=denyspacheco&theme=dark'/>
-
-
-
+<section>
+    <img src='https://github-readme-stats.vercel.app/api?username=denyspacheco&hide=prs,issues&theme=github_dark'/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=denyspacheco&langs_count=10&layout=compact&theme=github_dark'/>
+    <img align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=denyspacheco&theme=dark'/>
+</section>
