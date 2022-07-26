@@ -74,17 +74,17 @@ My main focus is performance and automation. May that be code, processes, learni
     <a href='https://jquery.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg' title='JQuery' width='40' height='40'/></a>
     <a href='https://babeljs.io/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg' title='Babel' width='40' height='40'/></a>
     <a href='https://www.centos.org/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg' title='CentOS' width='40' height='40'/></a>
+    <a href='https://www.docker.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' title='Docker' width='40' height='40'/></a> 
+    <a href='https://www.mongodb.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' title='MongoDB' width='40' height='40'/></a>
 </section>
 
 
 ## 🤩 Looking foward to work with
 
 <section>
-    <a href='https://www.docker.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' title='Docker' width='40' height='40'/></a> 
     <a href='https://jestjs.io' target='_blank' rel='noreferrer'><img src='https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg' title='Jest' width='40' height='40'/></a>
     <a href='https://tailwindcss.com/' target='_blank' rel='noreferrer'><img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' title='Tailwind' width='40' height='40'/></a>
     <a href='https://materializecss.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg' title='Materialize' width='40' height='40'/></a>
-    <a href='https://www.mongodb.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' title='MongoDB' width='40' height='40'/></a>
     <a href='https://mui.com/pt/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg' title='MaterialUI' width='40' height='40'/></a>
     <a href='https://fastapi.tiangolo.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg' title='FastAPI' width='40' height='40'/></a>
     <a href='https://www.djangoproject.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg' title='Django' width='40' height='40'/></a>
