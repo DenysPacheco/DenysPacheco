@@ -90,9 +90,8 @@ My main focus is performance and automation. May that be code, processes, learni
     <a href='https://www.djangoproject.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg' title='Django' width='40' height='40'/></a>
 </section>
 
-
 ## ⚡️ GitHub Stats
-
+![](https://komarev.com/ghpvc/?username=denyspacheco&color=9b1fe9)
 <section>
     <img src='https://github-readme-stats.vercel.app/api?username=denyspacheco&hide=prs,issues&theme=github_dark'/>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=denyspacheco&langs_count=10&layout=compact&theme=github_dark'/>
