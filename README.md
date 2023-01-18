@@ -76,6 +76,10 @@ My main focus is performance and automation. May that be code, processes, learni
     <a href='https://www.centos.org/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg' title='CentOS' width='40' height='40'/></a>
     <a href='https://www.docker.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' title='Docker' width='40' height='40'/></a> 
     <a href='https://www.mongodb.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' title='MongoDB' width='40' height='40'/></a>
+    <a href='https://tailwindcss.com/' target='_blank' rel='noreferrer'><img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' title='Tailwind' width='40' height='40'/></a>
+    <a href='https://materializecss.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg' title='Materialize' width='40' height='40'/></a>
+    <a href='https://mui.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg' title='MaterialUI' width='40' height='40'/></a>
+    <a href='https://vitejs.dev/' target='_blank' rel='noreferrer'><img src='https://www.svgrepo.com/show/374167/vite.svg' title='Vite' width='40' height='40'/></a>
 </section>
 
 
@@ -83,11 +87,13 @@ My main focus is performance and automation. May that be code, processes, learni
 
 <section>
     <a href='https://jestjs.io' target='_blank' rel='noreferrer'><img src='https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg' title='Jest' width='40' height='40'/></a>
-    <a href='https://tailwindcss.com/' target='_blank' rel='noreferrer'><img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' title='Tailwind' width='40' height='40'/></a>
-    <a href='https://materializecss.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg' title='Materialize' width='40' height='40'/></a>
-    <a href='https://mui.com/pt/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg' title='MaterialUI' width='40' height='40'/></a>
     <a href='https://fastapi.tiangolo.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg' title='FastAPI' width='40' height='40'/></a>
     <a href='https://www.djangoproject.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg' title='Django' width='40' height='40'/></a>
+    <a href='https://mochajs.org/' target='_blank' rel='noreferrer'><img src='https://www.svgrepo.com/show/373840/mocha.svg' title='Mocha' width='40' height='40'/></a>
+    <a href='https://redux.js.org/' target='_blank' rel='noreferrer'><img src='https://www.svgrepo.com/show/452093/redux.svg' title='Redux' width='40' height='40'/></a>
+    <a href='https://aws.amazon.com/' target='_blank' rel='noreferrer'><img src='https://www.svgrepo.com/show/448266/aws.svg' title='AWS' width='40' height='40'/></a>
+    <a href='https://aws.amazon.com/lambda/' target='_blank' rel='noreferrer'><img src='https://www.svgrepo.com/show/448267/aws-lambda.svg' title='Lambda' width='40' height='40'/></a>
+    <a href='https://cloud.google.com' target='_blank' rel='noreferrer'><img src='https://www.svgrepo.com/show/448223/gcp.svg' title='GCP' width='40' height='40'/></a>
 </section>
 
 ## ⚡️ GitHub Stats
