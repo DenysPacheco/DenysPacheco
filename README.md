@@ -98,7 +98,7 @@ My main focus is performance and automation. May that be code, processes, learni
 
 ## ⚡️ GitHub Stats
 ![](https://komarev.com/ghpvc/?username=denyspacheco&color=9b1fe9)
-<section>
+<section style="display: grid; gap: 10px">
     <img src='https://github-readme-stats.vercel.app/api?username=denyspacheco&hide=prs,issues&theme=github_dark'/>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=denyspacheco&langs_count=10&layout=compact&theme=github_dark'/>
     <img align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=denyspacheco&theme=dark'/>
