@@ -1,5 +1,7 @@
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD041 -->
 <section>
-    <h1 align='center'>Hi 
+    <h1 align='center'>Hi
     <img src='https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966' width='40px'>, I'm Denys</h1>
     <h3 align='center'>A curious 🤔 full stack developer from Brazil 🇧🇷</h3>
 </section>
@@ -8,12 +10,7 @@
 I'm a full stack developer, inspired by code and assiduous problem solver.
 
 My main focus is performance and automation. May that be code, processes, learning or people.
-
-- 👀 I’m interested in performance, automating the boring stuff and web development
-- 🌱 I’m currently learning React.js and Node.js (MERN stack)
-- 💞️ I’m looking to collaborate on projects that helps ease people's lives and make faster processes through tech
 </section>
-
 
 ## 📫 Contacts
 
@@ -23,7 +20,6 @@ My main focus is performance and automation. May that be code, processes, learni
     <a target='_blank' rel='noreferrer' href='https://www.linkedin.com/in/denyspacheco'></a>
 </section>
 
-
 ## 🚀️ Main languages
 
 <section>
@@ -31,7 +27,6 @@ My main focus is performance and automation. May that be code, processes, learni
     <a href='https://www.python.org' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg' width='50px' title='Python'/></a>
     <a href='https://www.gnu.org/software/bash/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg' width='50px' title='Bash'/></a>
 </section>
-
 
 ## 💻️ Developed with technologies
 
@@ -74,14 +69,13 @@ My main focus is performance and automation. May that be code, processes, learni
     <a href='https://jquery.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg' title='JQuery' width='40' height='40'/></a>
     <a href='https://babeljs.io/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg' title='Babel' width='40' height='40'/></a>
     <a href='https://www.centos.org/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg' title='CentOS' width='40' height='40'/></a>
-    <a href='https://www.docker.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' title='Docker' width='40' height='40'/></a> 
+    <a href='https://www.docker.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' title='Docker' width='40' height='40'/></a>
     <a href='https://www.mongodb.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' title='MongoDB' width='40' height='40'/></a>
     <a href='https://tailwindcss.com/' target='_blank' rel='noreferrer'><img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' title='Tailwind' width='40' height='40'/></a>
     <a href='https://materializecss.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg' title='Materialize' width='40' height='40'/></a>
     <a href='https://mui.com/' target='_blank' rel='noreferrer'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg' title='MaterialUI' width='40' height='40'/></a>
     <a href='https://vitejs.dev/' target='_blank' rel='noreferrer'><img src='https://www.svgrepo.com/show/374167/vite.svg' title='Vite' width='40' height='40'/></a>
 </section>
-
 
 ## 🤩 Looking foward to work with
 
@@ -97,11 +91,11 @@ My main focus is performance and automation. May that be code, processes, learni
 </section>
 
 ## ⚡️ GitHub Stats
-![](https://komarev.com/ghpvc/?username=denyspacheco&color=9b1fe9)
-<section>
-    <div style="display: grid; gap: 10px">
-      <a href='https://github.com/DenysPacheco?tab=repositories' target='_blank' rel='noreferrer'><img src='https://github-readme-stats.vercel.app/api?username=denyspacheco&hide=prs,issues&theme=github_dark'/></a>
-      <a href='https://github.com/DenysPacheco?tab=repositories' target='_blank' rel='noreferrer'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=denyspacheco&langs_count=10&layout=compact&theme=github_dark'/></a>
-      <a href='https://github.com/DenysPacheco?tab=repositories' target='_blank' rel='noreferrer'><img align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=denyspacheco&theme=dark'/></a>
-    </div>
-</section>
+
+![Profile views](https://komarev.com/ghpvc/?username=denyspacheco&color=9b1fe9)
+
+![gitstat graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denyspacheco&theme=github_dark)
+
+|![git repo lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=denyspacheco&theme=github_dark)|![git stats](https://github-readme-stats.vercel.app/api?username=denyspacheco&hide=prs,issues&theme=github_dark)|
+|-|-|
+|![git commit lang](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=denyspacheco&theme=github_dark)|![git stat](https://github-readme-streak-stats.herokuapp.com/?user=denyspacheco&theme=github_dark)|
